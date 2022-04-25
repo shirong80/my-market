@@ -1,0 +1,15 @@
+.vscode
+.next
+dist
+e2e
+node_modules
+.browserslistrc
+.editorconfig
+.gitignore
+.prettierignore
+.gitkeep
+src/favicon.ico
+src/assets/**/*
+src/html/**/*
+package.json
+package-lock.json
